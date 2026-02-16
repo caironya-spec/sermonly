@@ -1,0 +1,5 @@
+{
+  "name": "Sermonly - 설교문 요약 도우미",
+  "description": "긴 설교문을 원하는 길이(200-800자)로 핵심만 쏙쏙 요약해주는 스마트한 도구입니다.",
+  "requestFramePermissions": []
+}
